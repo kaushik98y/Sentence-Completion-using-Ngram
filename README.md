@@ -5,7 +5,6 @@ An NLP implementation of a sentence completion with language model.
 
 ### Requirements
 -------------------------------------------------------
-Python implementation requires python modules,
 sqlite3, kenlm, nltk
 
 
